@@ -13,3 +13,6 @@ Deployment Infor here. This is a simple project
 
 
 More Text. and more text
+
+##Copyright
+2018 Git.Training

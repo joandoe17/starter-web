@@ -17,4 +17,4 @@ More Text. and more text
 Please fork this repo and then issue Pull Request for review.
 
 ##Copyright
-2018 Git.Training
+2018 Git.Training. All rights reserved.

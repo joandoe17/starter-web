@@ -2,7 +2,7 @@
 Adding a line for rebasing example, wow awesome
 ## Introduction
 
-This repository is for showing how Git and GitHub work. Too much typing...
+This repository is for showing how Git and GitHub work. Too much typing... Emergency fix after stash
 
 ## Purpose
 
